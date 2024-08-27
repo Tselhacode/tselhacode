@@ -24,8 +24,8 @@ I am a continuous and fast learner.
 - [Another Project](https://github.com/Tselhacode/another-repo) - Brief description of what this project does.
 
 ## 📫 How to reach me:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tenzin-tselha/)
+- Email: [tenzin.tselha90@gmail.com](mailto:tenzin.tselha90@gmail.com)
 
 ## 🌱 Currently Learning
 - creating large language models from scratch
