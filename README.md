@@ -1,15 +1,16 @@
 
-## Hi there, I'm Tenzin! 👋
+## Hi there, I'm Tenzin! Welcome to my page!👋
 
-- 🔭 I’m currently working on something interesting
-- 👯 I’m looking to collaborate on ...
+I'm a self-taught software developer with a passion for finding interesting intersectionality between coding and social sciences. I love building applications that solve real-world problems. I come from a non-traditional background as I have a background in philosophy. I have over two years of experience as a software developer at a museum where I was the only full-stack developer and got to work on these projects WW II Interactive Map and Suitcase Project. These projects are currently on display at the museum!
+
+I am a continuous and fast learner.
+
+- 🔭 I’m currently learning how to create a large language model from scratch and leverage my full-stack development skills to work on building a philosophical debating App.
+- 👯 I also dabble a bit in Swift, iOS, and Python.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ..
-
-I'm a self-taught software developer with a passion for finding interesting intersectionality between coding and social sciences. I love building applications that solve real-world problems.
+- ⚡ Fun fact: Part-time singer/songwriter 
 
 ## 🔧 Technologies & Tools
 
@@ -25,10 +26,6 @@ I'm a self-taught software developer with a passion for finding interesting inte
 ## 📫 How to reach me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
 - Email: [youremail@example.com](mailto:youremail@example.com)
-
-## 📊 GitHub Stats
-
-![Tenzin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tselhacode&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 - creating large language models from scratch
