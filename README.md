@@ -1,16 +1,11 @@
 
 ## Hi there, I'm Tenzin! Welcome to my page!👋
 
-I'm a self-taught software developer with a passion for finding interesting intersectionality between coding and social sciences. I love building applications that solve real-world problems. I come from a non-traditional background as I have a background in philosophy. I have over two years of experience as a software developer at a museum where I was the only full-stack developer and got to work on these projects WW II Interactive Map and Suitcase Project. These projects are currently on display at the museum!
-
-I am a continuous and fast learner.
+I'm a self-taught software developer with a unique background in philosophy, driven by a passion for exploring the intersection between coding and social sciences. I love creating applications that address real-world challenges. With over two years of experience as the sole full-stack developer at a museum, I had the privilege of working on projects like the WWII Interactive Map and the Suitcase Project, both of which are currently on display. I'm a quick learner, always eager to expand my skills and knowledge.
 
 - 🔭 I’m currently learning how to create a large language model from scratch and leverage my full-stack development skills to work on building a philosophical debating App.
 - 👯 I also dabble a bit in Swift, iOS, and Python.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: Part-time singer/songwriter 
+- ⚡ Fun fact: I enjoy coming up with tunes in my head and turning them into songs. 
 
 ## 🔧 Technologies & Tools
 
@@ -27,7 +22,4 @@ I am a continuous and fast learner.
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tenzin-tselha/)
 - Email: [tenzin.tselha90@gmail.com](mailto:tenzin.tselha90@gmail.com)
 
-## 🌱 Currently Learning
-- creating large language models from scratch
-- Cybersecurity
 
