@@ -14,10 +14,6 @@ I'm a self-taught software developer with a unique background in philosophy, dri
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## 🛠️ Projects
-- [Project Name](https://github.com/Tselhacode/project-repo) - 
-- [Another Project](https://github.com/Tselhacode/another-repo) - 
-
 ## 📫 How to reach me:
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tenzin-tselha/)
 - Email: [tenzin.tselha90@gmail.com](mailto:tenzin.tselha90@gmail.com)
