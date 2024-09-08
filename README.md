@@ -3,7 +3,7 @@
 
 I'm a self-taught software developer with a unique background in Buddhist philosophy, driven by a passion for exploring the intersection between coding and social sciences. I love creating applications that address real-world challenges. With over two years of experience as the sole full-stack developer at ALPHA Education, which launched a museum this past June 2024. I had the privilege of working on projects like the WWII Interactive Map and the Suitcase Project, both of which are currently on display. I'm a quick learner, always eager to expand my skills and knowledge.
 
-- 🔭 I’m currently learning how to create a large language model from scratch.
+- 🔭 I’m currently working towards getting my first CyberSecurity certification.
 - 👯 I also dabble a bit in Swift, iOS, and Python.
 - ⚡ Fun fact: I enjoy coming up with tunes in my head and turning them into songs. 
 
