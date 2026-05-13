@@ -1,7 +1,7 @@
 
 ## Hi there, I'm Tenzin! Welcome to my page!👋
 
-I’m a full-stack AI software engineer and MSc Computer Science (AI) student at Toronto Metropolitan University, with an interdisciplinary background spanning software engineering and philosophy. I’m passionate about building intelligent systems that solve real-world problems at the intersection of AI, software, and human-centered design. My work spans end-to-end web development, retrieval systems, machine learning, and scalable AI-powered applications.
+I’m a MSc Computer Science (AI) student at Toronto Metropolitan University, with an interdisciplinary background spanning software engineering and philosophy. I’m passionate about building intelligent systems that solve real-world problems at the intersection of AI, software, and human-centered design. My work spans end-to-end web development, retrieval systems, machine learning, and scalable AI-powered applications.
 
 I’m constantly exploring new technologies and enjoy turning research ideas into practical tools.
 
